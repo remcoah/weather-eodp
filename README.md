@@ -1,8 +1,6 @@
 # weather-eodp
 Uses supervised machine learning to predict energy consumption based on weather conditions. 
 
-# Canvas Group: A2-Project 9
-# Group leader: 1272922, jagardiner, Jack Gardiner
 # Members: 
 1007904, adras, Samer Adra
 1217370, rholstege, Remco Holstege
